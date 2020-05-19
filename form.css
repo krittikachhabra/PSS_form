@@ -1,0 +1,24 @@
+.big{ width: 100%; height: 2em;}
+
+table {
+  border-collapse: collapse;
+  overflow-x:auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th{
+	height:3em;
+	background-color: blue;
+	color: white;
+}
+
+tr td{
+	text-align: left;
+}
+
+.text-setting {
+	background: 
+}
